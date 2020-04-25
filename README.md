@@ -8,7 +8,7 @@ Thanks for checking out this front-end coding challenge.
 
 # Good Practice in Technical Test
 
-![See this checkpoint about good practice in technical test](https://john-florez.gitbook.io/checkpointgeeks/tip-geek-pruebas-tecnicas).
+https://john-florez.gitbook.io/checkpointgeeks/tip-geek-pruebas-tecnicas
 
 **To do this challenge, you need a basic understanding of HTML, CSS and JavaScript.**
 
